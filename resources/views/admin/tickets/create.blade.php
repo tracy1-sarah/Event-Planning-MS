@@ -86,7 +86,7 @@
         </div>
     </div>
 
-    {!! Form::submit(trans('quickadmin.qa_save'), ['class' => 'btn btn-danger']) !!}
+    {!! Form::submit(trans('quickadmin.qa_save'), ['class' => 'btn btn-primary']) !!}
     {!! Form::close() !!}
 @stop
 

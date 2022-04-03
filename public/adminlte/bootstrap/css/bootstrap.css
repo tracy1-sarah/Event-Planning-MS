@@ -5457,6 +5457,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-body {
   padding: 15px;
+  background-color: #1b6d85;
 }
 .panel-heading {
   padding: 10px 15px;
@@ -5662,6 +5663,9 @@ button.list-group-item-danger.active:focus {
 .panel-group {
   margin-bottom: 20px;
 }
+
+
+
 .panel-group .panel {
   margin-bottom: 0;
   border-radius: 4px;

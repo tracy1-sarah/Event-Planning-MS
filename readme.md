@@ -1,4 +1,4 @@
-# Event Planning System: Laravel 5.4 based system for event organizers to manage events and sell tickets.
+# Event Planning and Management System: Laravel 5.4 based system for event organizers to manage events and sell tickets.
 
 - **Email**: admin@admin.com
 - **Pass**: admin123
